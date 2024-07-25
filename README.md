@@ -8,4 +8,5 @@ Basic apps consists of:
 Main apps consists of:
 1. Weather App
 2. To-Do List App
+3. Notes App
    
